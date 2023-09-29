@@ -1,0 +1,26 @@
+section img{
+    width: 100%;
+    max-width: 300px;
+    height: 300px;
+}
+article img{
+    width: 100%;
+    max-width: 200px;
+    height: 200px;
+}
+article {
+    display: flex;
+    flex-wrap: wrap;
+}
+section {
+    margin-left: 20%;
+    margin-right: 15%;
+    padding: 0px;
+    display: flex;
+    flex-wrap: wrap;
+}
+main{
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 0px;
+}
